@@ -240,23 +240,20 @@ main {
 }
 
 .main_items > .main_items_left {
-  margin-top: 90px;
-  margin-left: 40px;
-  padding: 15px;
-  position: relative;
-  background-color: rgba(255, 255, 255, 0.847);
-  color: rgb(0, 0, 0);
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  font-weight: 700;
-  width: 860px;
-  height: 500px;
-  border-radius: 27px;
-  box-shadow: rgba(0, 0, 0, 0.643) 5px 1px 20px 8px;
-  display: flex;
-  flex-direction: column;
-  flex-wrap: nowrap;
-  align-items: flex-start;
-  justify-content: space-evenly;
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.847);
+    color: rgb(0, 0, 0);
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    width: 860px;
+    height: 500px;
+    border-radius: 27px;
+    box-shadow: rgba(0, 0, 0, 0.643) 5px 1px 20px 8px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+    justify-content: space-around;
 }
 
 .main_items_left > .blok_1 {

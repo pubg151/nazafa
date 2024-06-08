@@ -256,7 +256,7 @@ main {
   flex-direction: column;
   flex-wrap: nowrap;
   align-items: flex-start;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 
 .main_items_left > .blok_1 {
